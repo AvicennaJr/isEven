@@ -1,4 +1,10 @@
-# Is Even
+<h1 align="center">Is Even</h1>
+<p align="center">
+<img src="https://img.shields.io/github/go-mod/go-version/AvicennaJr/isEven?style=plastic">
+<img src="https://img.shields.io/github/actions/workflow/status/avicennajr/iseven/tests.yml?style=plastic">
+<img src="https://img.shields.io/github/last-commit/avicennajr/iseven?style=plastic">
+<img src="https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=plastic">
+</p>
 A golang package to check is a number is even.
 
 ## Installation
